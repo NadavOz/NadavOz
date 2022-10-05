@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NadavOz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Nadavoz@protonmail.com
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me Nadavoz@Pm.me
 
 <!---
 NadavOz/NadavOz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
